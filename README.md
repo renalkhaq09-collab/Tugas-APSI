@@ -6,5 +6,5 @@ Tugas BRD
 ![diagram dfd](dfd.png)
 ![diagram object](object.png)
 ![diagram Activity](Activity.png)
-![diagram use case](use case.png)
+![diagram use case](use.png)
 ![diagram sequence](sequence.png)
